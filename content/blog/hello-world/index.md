@@ -3,7 +3,7 @@ title: 'Hello, Ryan! From gitent'
 date: '2015-05-01T22:12:03.284Z'
 description: Hello World
 ---
-# *This is an update from gitent, **SICK***
+From gitent. **Sick!!**
 
 test
 I'm sure I'll write a lot more interesting things in the future.
