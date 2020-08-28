@@ -1,9 +1,8 @@
-- - -
-
-## title: Hello, Ryan! From gitent
-
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+---
+title: 'Hello, Ryan! From gitent'
+date: '2015-05-01T22:12:03.284Z'
+description: 'Hello World'
+---
 
 # *This is an update from gitent, **SICK***
 
